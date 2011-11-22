@@ -1,0 +1,4 @@
+Install cutycapt and headless webkit on Ubuntu to take screenshots of other websites
+
+Just type ./install and it should install all the necessary libraries for you.
+At the last step, it will also take a screenshot of google and output it to example.png to see that everything worked.
