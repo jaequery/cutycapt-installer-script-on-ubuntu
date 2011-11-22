@@ -1,0 +1,9 @@
+#!/bin/bash          
+echo "now installing cutycapt"
+
+sudo apt-get update -y
+sudo apt-get install build-essential -y
+sudo apt-get install xvfb -y
+sudo apt-get install xfs xfonts-scalable xfonts-100dpi -y
+sudo apt-get install libgl1-mesa-dri -y
+sudo apt-get install subversion libqt4-webkit libqt4-dev g++ -y
